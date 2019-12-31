@@ -20,12 +20,12 @@
 > project_final
 
 - [Mind_Map_Project.py](project_final)
-- [positive_words.csv](project_final) - data summary.
-- [posWords_dataSet.txt](project_final) - data summary.
+- [positive_words.csv](project_final) - 113 list of two positive words combination
+- [posWords_dataSet.txt](project_final) - result of three clicked words combination from 'positive words.csv'
 
 > project_result_image
 
-- [Idea_sketch_black.jpg](project_final/project_result_image) - description
+- [Idea_sketch_black.jpg](project_final/project_result_image) - The idea sketch of final images that I wanted to show at the end
 - [[1]green_plot_b_edited.jpg](project_final/project_result_image) - description
 - [[2]yellow_plot_b_edited.jpg](project_final/project_result_image) - description
 - [[3]clicked_three_words_network.png](project_final/project_result_image) - description
