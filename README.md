@@ -1,5 +1,5 @@
 <p align="center">
-  <h3>How's your mood?</h3> - Data mapping of your history
+  <b>How's your mood?</b> - Data mapping of your history
 </p>
 
 # Intro
