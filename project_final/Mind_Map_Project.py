@@ -156,8 +156,8 @@ f
 
 G = nx.DiGraph()
 
-posResult = open("/Users/hyun/Downloads/project_programming/posWords_dataSet.txt", "r")
-# posResult = open("./posWords_dataSet.txt", "r")
+posResult = open("./posWords_dataSet.txt", "r")
+
 header = posResult.readline()
 
 posWordsList = []
