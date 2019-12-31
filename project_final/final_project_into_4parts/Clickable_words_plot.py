@@ -118,10 +118,10 @@ def update_point(trace, points, selector):
             scatter.marker.color = ['#d8b65c']*dictPosition
             # print(scatter.marker.color)
 
-            if os.path.isfile("posWords_dataSet.txt"):
-                oFile = open("posWords_dataSet.txt", "a+")
+            if os.path.isfile("testWords_dataSet.txt"):
+                oFile = open("testWords_dataSet.txt", "a+")
             else:
-                oFile = open("posWords_dataSet.txt", "a+")
+                oFile = open("testWords_dataSet.txt", "a+")
                 oFile.write("Phrase\tcreateTime\n")
 
             oFile.write(newPhrase + "\t" + str(datetime.today()) + "\n")
