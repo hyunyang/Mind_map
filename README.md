@@ -31,16 +31,14 @@
 - [[3]clicked_three_words_network.png](project_final/project_result_image) - description
 - [[4]network_final_graph.png](project_final/project_result_image) - description
 
-# using Libraries
-| Library Name                                |                                                                            |
+# using Packages
+| Package Name                                |  Description                                                                 |
 | ------------------------------------------- | -------------------------------------------------------------------------- |
-| numpy                        | Test components for user accessibility in Storybook                        |
-| networkx                  | Log actions as users interact with components in the Storybook UI          |
-| bokeh                  | Log actions as users interact with components in the Storybook UI          |
-| matplotlib                  | Log actions as users interact with components in the Storybook UI          |
-| plotly.graph_objects                  | Log actions as users interact with components in the Storybook UI          |
-
-
+| numpy                        | NumPy is the fundamental package for scientific computing with Python                     |
+| networkx                  | NetworkX is a Python package for the creation, manipulation, and study of the structure,    dynamics, and functions of complex networks.          |
+| bokeh                  | Bokeh is an interactive visualization library for modern web browsers. It provides elegant, concise construction of versatile graphics, and affords high-performance interactivity over large or streaming datasets.          |
+| matplotlib                  | Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.          |
+| plotly                  | The plotly Python library (plotly.py) is an interactive, open-source plotting library that supports over 40 unique chart types covering a wide range of statistical, financial, geographic, scientific, and 3-dimensional use-cases.          |
 
 
 # Contact
