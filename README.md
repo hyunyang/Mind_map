@@ -20,9 +20,9 @@
 - [positive_words.csv](project_final) - data summary.
 - [posWords_dataSet.txt](project_final) - data summary.
 
-> [project_result_image](project_final/project_result_image)
+> project_result_image
 
-- [Idea_sketch_black.jpg] (project_final/project_result_image) - description
+- [Idea_sketch_black.jpg](project_final/project_result_image) - description
 - [[1]green_plot_b_edited.jpg](project_final/project_result_image) - description
 - [[2]yellow_plot_b_edited.jpg](project_final/project_result_image) - description
 - [[3]clicked_three_words_network.png](project_final/project_result_image) - description
