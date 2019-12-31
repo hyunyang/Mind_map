@@ -25,8 +25,8 @@
 
 > project_result_image
 
-- [Idea_sketch_black.jpg](project_final/project_result_image) - The idea sketch of final images that I wanted to show at the end
-- [[1]green_plot_b_edited.jpg](project_final/project_result_image) - description
+- [Idea_sketch_black.jpg](project_final/project_result_image) - The idea sketch of final images that I wanted to represent at the end
+- [[1]green_plot_b_edited.jpg](project_final/project_result_image) - This image represents single split word with prequency rate from list of two positive words combination in 'positive words.csv' file
 - [[2]yellow_plot_b_edited.jpg](project_final/project_result_image) - description
 - [[3]clicked_three_words_network.png](project_final/project_result_image) - description
 - [[4]network_final_graph.png](project_final/project_result_image) - description
