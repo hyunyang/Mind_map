@@ -226,15 +226,15 @@ for key1 in posWordsResultDict.keys():
 # print(nodeSize2)
 nx.draw(G, with_labels=True,
         node_size=nodeSize2,
-        node_color='#1d1e3a',
+        node_color='#EFC9AF',
         node_shape='h', #node_shape="d,h,o,p,s,v,x,"
         alpha=0.7, #node transparancy rate out of '1'
         linewidths=4,
         font_size=10,
-        font_color='#45e2e4',
+        font_color='#104C91',
         font_weight='bold',
         width=1,
-        edge_color='#ff4e60'
+        edge_color='#1F8AC0'
        )
 
 # -------------------- Setting a Plot option part --------------------
