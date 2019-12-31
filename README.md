@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./title.png" alt="title" width="1200" />
+  How's your mood? - Data mapping of your history
 </p>
 
 # Intro
