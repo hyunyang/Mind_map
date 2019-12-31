@@ -1,5 +1,8 @@
+<h1 align="center">
+  How's your mood?
+</h1>
 <p align="center">
-  <b>How's your mood?</b> - Data mapping of your history
+  - Data mapping of your history
 </p>
 
 # Intro
@@ -8,15 +11,15 @@
 # File description
 > Course
 
-- [class week1-day1.ipynb](course) - learning about ...
-- [class week1-day2.ipynb](course) - learning about ...
-- [class week2-day1_2.ipynb](course) - learning about ...
-- [class week3-day1-dictionary_forloop.ipynb](course) - learning about ...
-- [class week3-day2-function.ipynb](course) - learning about ...
+- [class week1-day1.ipynb](course) - Learned about basic languages and data types
+- [class week1-day2.ipynb](course) - Learned about conditional statement(if, elif, else)
+- [class week2-day1_2.ipynb](course) - Learned about loop(for, while) including break, continue, and infinite while loop
+- [class week3-day1-dictionary_forloop.ipynb](course) - learned about list and dictionary date type
+- [class week3-day2-function.ipynb](course) - learned about function
 
 > project_final
 
-- [Mind_Map_Project.py](project_final) - proeject 1 summary.
+- [Mind_Map_Project.py](project_final)
 - [positive_words.csv](project_final) - data summary.
 - [posWords_dataSet.txt](project_final) - data summary.
 
