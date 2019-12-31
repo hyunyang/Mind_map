@@ -21,7 +21,7 @@
 
 - [Mind_Map_Project.py](project_final)
 - [positive_words.csv](project_final) - 113 list of two positive words combination
-- [posWords_dataSet.txt](project_final) - result of three clicked words combination from 'positive words.csv'
+- [posWords_dataSet.txt](project_final) - Result of three clicked words combination from the list of words in 'positive words.csv' file.
 
 > project_result_image
 
