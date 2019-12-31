@@ -1,3 +1,20 @@
+posResult = open("../posWords_dataSet.txt", "r")
+
+header = posResult.readline()
+
+posWordsList = []
+
+while True:
+    content = posResult.readline()
+    #     content = content.replace("\n"," ")
+    wordsResult = content.split("\t")
+    if len(content) == 0:
+        break
+    #     print(wordsResult[0])
+    posWordsList.append(wordsResult[0])
+
+posResult.close()
+
 # -------------------- Setting a Plot option part --------------------
 
 plot = Plot(plot_width=1000, plot_height=750,
