@@ -17,7 +17,7 @@ from bokeh.transform import transform
 
 # -------------------- Open positive_words file that has words from my Mind_Map --------------------
 
-posFile = open('/Users/hyun/Desktop/Python_mindmap_proeject/positive_words.csv', 'r')
+posFile = open('./positive_words.csv', 'r')
 # print(type(posFile))
 
 posListWords = []
@@ -196,7 +196,7 @@ for idx10 in range(len(posWordsList)):
 nx.draw(G, with_labels=True)
 
 
-# -------------------- Graph drawing with more function and clicking part --------------------
+# -------------------- Graph drawing with more function part --------------------
 # -------------------- Of the words combination result from above --------------------
 
 plt.figure(figsize = (10, 7))
