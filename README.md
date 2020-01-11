@@ -35,7 +35,7 @@
 | Package Name                                |  Description                                                                 |
 | ------------------------------------------- | -------------------------------------------------------------------------- |
 | numpy                        | NumPy is the fundamental package for scientific computing with Python                     |
-| networkx                  | NetworkX is a Python package for the creation, manipulation, and study of the structure,    dynamics, and functions of complex networks.          |
+| networkx                  | NetworkX is a Python package for the creation, manipulation, study of the structure,    dynamics, and functions of complex networks.          |
 | bokeh                  | Bokeh is an interactive visualization library for modern web browsers. It provides elegant, concise construction of versatile graphics, and affords high-performance interactivity over large or streaming datasets.          |
 | matplotlib                  | Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.          |
 | plotly                  | The plotly Python library (plotly.py) is an interactive, open-source plotting library that supports over 40 unique chart types covering a wide range of statistical, financial, geographic, scientific, and 3-dimensional use-cases.          |
