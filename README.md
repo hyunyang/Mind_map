@@ -14,8 +14,8 @@
 - [class week1-day1.ipynb](course) - Learned about basic languages and data types
 - [class week1-day2.ipynb](course) - Learned about conditional statement(if, elif, else)
 - [class week2-day1_2.ipynb](course) - Learned about loop(for, while) including break, continue, and infinite while loop
-- [class week3-day1-dictionary_forloop.ipynb](course) - learned about list and dictionary date type
-- [class week3-day2-function.ipynb](course) - learned about function
+- [class week3-day1-dictionary_forloop.ipynb](course) - Learned about list and dictionary date type
+- [class week3-day2-function.ipynb](course) - Learned about function
 
 > project_final
 
